@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Visitor's Count:
 
-![Visitor Count](https://profile-counter.glitch.me/vinayakpotdar2114/count.s
+![Visitor Count](https://profile-counter.glitch.me/vinayakpotdar2114/count.svg)
