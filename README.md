@@ -9,6 +9,8 @@ vinayakpotdar2114/vinayakpotdar2114 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 ## Things I am learning and playing with
 
 📈 Machine Learning
@@ -18,6 +20,14 @@ You can click the Preview link to take a look at your changes.
 🧠 Neural Networks- Tensorflow & Keras
 
 👁️ Computer Vision
+
+## Connect with me:
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/vinayak-potdar-3b2298127/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@vinayak.potdar.vp)
+</p>
 
 ## Vinayak's Total Stats:
 
