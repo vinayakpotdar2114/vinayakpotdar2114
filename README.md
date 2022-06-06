@@ -8,3 +8,21 @@
 vinayakpotdar2114/vinayakpotdar2114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Things I am learning and playing with
+
+📈 Machine Learning
+
+🤖 Deep Learning
+
+🧠 Neural Networks- Tensorflow & Keras
+
+👁️ Computer Vision
+
+## Vinayak's Total Stats:
+
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakpotdar2114&show_icons=true&theme=radical)
+
+## Visitor's Count:
+
+![Visitor Count](https://profile-counter.glitch.me/vinayakpotdar2114/count.s
